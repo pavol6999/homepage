@@ -1,0 +1,81 @@
+{
+  "person": {
+    "role": "DevOps Specialist"
+  },
+  "newsletter": {
+    "title": "Subscribe to {firstName}'s Newsletter",
+    "description": "If you'd like to stay in the loop for any future updates I might share, feel free to subscribe!",
+    "button": "Sign up"
+  },
+  "home": {
+    "label": "Home",
+    "title": "{name}'s Homepage",
+    "description": "Portfolio website showcasing my work as a {role} and as a passionate hobbyist",
+    "headline": "DevOps Specialist and a hobbyist",
+    "subline": "I'm Pavol, an engineer focused on streamlining cloud infrastructure and automation. After hours, I learn about new tech and explore the impossible."
+  },
+  "about": {
+    "label": "About",
+    "title": "About me",
+    "description": "Meet {name}, {role} from {location}",
+    "intro": {
+      "title": "Introduction",
+      "description": "Pavol is a DevOps specialist with a passion for transforming complex infrastructure challenges into streamlined, efficient solutions. His work spans cloud automation, scalable systems, and the intersection of development and operations. In his free time, he channels his creativity into hands-on building projects, from LEGO creations to crafting and beyond."
+    },
+    "work": {
+      "title": "Work Experience",
+      "experiences": {
+        "DevOpsGroup": {
+          "timeframe": "2020 - Present",
+          "role": "DevOps Specialist",
+          "achievements": "Progressing toward an architectural role, I specialize in optimizing large-scale cloud infrastructures as a DevOps engineer and offer consulting services to improve deployment efficiency and system reliability."
+        },
+        "FIIT": {
+          "timeframe": "2019 - 2020",
+          "role": "Backend Developer",
+          "achievements": "Worked on multiple in-house projects, focusing on backend development and gradually adopting DevOps practices to streamline processes and improve system stability."
+        }
+      }
+    },
+    "studies": {
+      "title": "Studies",
+      "institutions": {
+        "Slovak University of Technology": {
+          "description": "Studied software engineering and honed my expertise."
+        },
+        "Gymnasium of Andrej Vrabel": {
+          "description": "Where I built my foundation."
+        }
+      }
+    },
+    "technical": {
+      "title": "Technical skills",
+      "skills": {
+        "Cloud": {
+          "description": "Building scalable cloud infrastructure at lightning speed."
+        },
+        "Automation": {
+          "description": "I’d automate the life out of any process."
+        }
+      }
+    }
+  },
+  "blog": {
+    "label": "Blog",
+    "title": "Writing about anything and everything...",
+    "description": "Read what {name} has been up to recently"
+  },
+  "work": {
+    "label": "Work",
+    "title": "My projects",
+    "description": "Projects by {name}"
+  },
+  "gallery": {
+    "label": "Gallery",
+    "title": "My photo gallery",
+    "description": "A photo collection by {name}"
+  },
+  "projectCard": {
+    "label": "Read Case Study"
+  }
+}
