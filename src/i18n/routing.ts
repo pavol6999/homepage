@@ -7,7 +7,8 @@ export const routing = defineRouting({
   defaultLocale: i18nOptions.defaultLocale,
 
   // Won't display `defaultLocale` in routes
-  localePrefix: 'as-needed'
+  localePrefix: 'always',
+ 
 });
  
 export type Locale = (typeof routing.locales)[number];
