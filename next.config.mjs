@@ -12,9 +12,7 @@ const withNextIntl = createNextIntlPlugin();
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     pageExtensions: ['ts', 'tsx', 'md', 'mdx'],
-    reactStrictMode: true,
     distDir: 'build',
-    output: 'export'
 };
 
 export default withNextIntl(withMDX(nextConfig));
